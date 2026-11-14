@@ -1,0 +1,17 @@
+BIOMUNDO — PROYECTO WEB DE BIOLOGÍA
+
+ARCHIVOS
+- index.html: estructura y contenido.
+- styles.css: diseño visual y adaptación a celular, tableta y computadora.
+- script.js: menú móvil, tabla interactiva, cuestionario y formulario.
+
+CÓMO ABRIR EN VISUAL STUDIO CODE
+1. Descarga y extrae el archivo ZIP.
+2. Abre Visual Studio Code.
+3. Selecciona Archivo > Abrir carpeta y elige la carpeta biologia_web.
+4. Abre index.html y usa la extensión Live Server (opcional), o abre index.html directamente en tu navegador.
+
+IMPORTANTE
+La página funciona localmente. El contenido, estilos e interacciones no requieren servidor.
+Las fotografías, Google Fonts y el video incrustado se cargan desde internet; por eso esos elementos necesitan conexión.
+El formulario es demostrativo: valida y muestra un mensaje, pero no envía datos a ningún servidor.
